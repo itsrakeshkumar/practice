@@ -1,7 +1,0 @@
-Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
-Get Session Token,50,95,93,104,2.68,0.000%,.39218,0.34,0.20,890.0
-Save ManageLevels API,26150,23,19,106,5.07,0.000%,43.65894,22.39,37.72,525.2
-Get ManageLevels API,27417,32,20,731,8.93,0.000%,45.77006,51.57,21.68,1153.7
-Get ManageModules API,26989,47,29,2879,23.01,0.004%,45.05556,171.81,21.41,3904.7
-Get ManageModules/Levels API,28006,10,8,43,1.24,0.000%,46.75514,38.25,22.54,837.7
-TOTAL,108612,28,8,2879,18.51,0.001%,42.96871,67.32,24.50,1604.4
