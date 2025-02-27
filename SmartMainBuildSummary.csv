@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Get Session Token,25,99,93,154,12.52,0.000%,.86520,0.75,0.45,890.0
+SaveManageFields,7046,106,59,316,33.22,0.000%,11.75785,6.08,24.28,529.4
+GetManageFields-Text,7258,86,40,787,99.20,0.000%,12.11128,25.13,5.80,2125.1
+TOTAL,14329,96,40,787,75.02,0.000%,11.65708,15.24,14.67,1338.3
